@@ -1,4 +1,4 @@
-# Hi there, I'm [Kate](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm Kate ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+from+Russia)](https://git.io/typing-svg)
 - :computer: I’m currently learning html, css and js
 -  :email: How to reach me: 
