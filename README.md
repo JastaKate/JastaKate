@@ -4,7 +4,7 @@
      <br>
      email: katyamakarova2003@icloud.com
      <br>
-     telegram: @katemak_m
+     telegram: https://t.me/katemak_m
      <br>
      vk: https://vk.ru/id252383553 
 
