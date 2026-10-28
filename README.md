@@ -12,6 +12,19 @@
 
 Разрабатываю backend-приложения на Java и изучаю Go
 
+## Telegram-бот рецептов · Java
+
+Бот для получения рецептов завтраков и ужинов. Получает данные из отдельных REST-сервисов и отправляет пользователю название блюда, время приготовления и список ингредиентов.
+
+Репозитории:
+
+- [TgRecipeBot](https://github.com/JastaKate/TgRecipeBot) — Telegram-бот
+- [BreakfastsService](https://github.com/JastaKate/BreakfastsService) — завтраки и ингредиенты
+- [DinnerService](https://github.com/JastaKate/DinnerService) — ужины и ингредиенты
+- [BotGateway](https://github.com/JastaKate/BotGateway) — Gateway для HTTP API проекта
+
+**Стек:** Java, Spring Boot, Telegram Bots API, Spring Data JPA, PostgreSQL, Liquibase, Kafka, Spring Cloud Gateway, Gradle
+
 ## ConnectHome · Java
 
 Приложение для управления домами и комнатами. Состоит из сервиса пользователей, сервиса домов и API Gateway.
@@ -25,19 +38,6 @@
 - [api-gateway](https://github.com/JastaKate/api-gateway) — маршрутизация запросов
 
 **Стек:** Java, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, Liquibase, Kafka, Gradle
-
-## Telegram-бот рецептов · Java
-
-Бот для получения рецептов завтраков и ужинов. Получает данные из отдельных REST-сервисов и отправляет пользователю название блюда, время приготовления и список ингредиентов.
-
-Репозитории:
-
-- [TgRecipeBot](https://github.com/JastaKate/TgRecipeBot) — Telegram-бот
-- [BreakfastsService](https://github.com/JastaKate/BreakfastsService) — завтраки и ингредиенты
-- [DinnerService](https://github.com/JastaKate/DinnerService) — ужины и ингредиенты
-- [BotGateway](https://github.com/JastaKate/BotGateway) — Gateway для HTTP API проекта
-
-**Стек:** Java, Spring Boot, Telegram Bots API, Spring Data JPA, PostgreSQL, Liquibase, Kafka, Spring Cloud Gateway, Gradle
 
 ## Проекты на Go
 
